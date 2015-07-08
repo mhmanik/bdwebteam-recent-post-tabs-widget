@@ -1,5 +1,6 @@
-# bdwebteam recent post tabs widget Wordpress Plugin
-bdwebteam recent post tabs widget that shows the post tabs of your site with excerpt limit.
+# bdwebteam recent post tabs widget
+
+# Wordpress Plugin
 
 bdwebteam recent post tabs widget that shows the post tabs of your site with excerpt limit.
 
@@ -22,4 +23,4 @@ If you set to display excerpt, than you will be able to define how many characte
 
 Easy to configure CSS 
 
-[You can check demo on following pages](http://plugin.bdwebteam.com/bdwebteam-recent-post-tabs-widget/)
+[Download Version 1.0.2](https://wordpress.org/plugins/bdwebteam-recent-post-tabs-widget/)
